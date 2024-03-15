@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on [Hotel Management Website](https://github.com/naseem12007571/hotel-Management)
 
-- 🌱 I’m currently learning **React.js,Node.js.Express.js**
+- 🌱 I’m currently learning **Node.js.**
 
-- 👯 I’m looking to collaborate on [Bangalore-House-Price-Prediction](https://github.com/naseem12007571/Bangalore-House-Price-Prediction)
+- 💬 Ask me about **HTML,CSS,JavaScript,React.js**
 
-- 🤝 I’m looking for help with [Hotel Management Website](https://github.com/naseem12007571/hotel-Management)
-
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 📫 How to reach me **naseemchoudhary18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
