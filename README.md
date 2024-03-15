@@ -1,3 +1,4 @@
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Naseem Ahmad</h1>
 <h3 align="center">Passionate about Data Scientist | Data Analyst | Competitive Coding Enthusiast | Mern Stack Enthusiast l Full Stack Developer</h3>
 
